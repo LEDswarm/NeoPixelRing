@@ -32,7 +32,7 @@ led_size = 5.0;
 led_height = 1.0;
 
 // How far outwards to psuh the LEDs in their octagonal arrangement
-led_radius= 19.6;
+led_radius= 20.2;
 
 // How many millimeters the pad is inset from the edge of the LED.
 led_smd_pad_inset = 0.4;
