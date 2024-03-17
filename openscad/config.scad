@@ -11,6 +11,7 @@ $fn = 96;
 pcb_diameter = 26.5;
 pcb_thickness = 1.6;
 pcb_radius = pcb_diameter / 2;
+pcb_color = [0.2, 0.2, 0.2];
 // Height of the SMD pads on the circuit board
 smd_pad_height = 0.035;
 
@@ -29,6 +30,10 @@ pcb_screw_hole_diameter = 2.0;
 // Size is 5050, so five by five millimeters
 led_size = 5.0;
 led_height = 1.0;
+
+// How far outwards to psuh the LEDs in their octagonal arrangement
+led_radius= 19.6;
+
 // How many millimeters the pad is inset from the edge of the LED.
 led_smd_pad_inset = 0.4;
 // How many millimeters the square pad extends out to the side from the LED edge.
