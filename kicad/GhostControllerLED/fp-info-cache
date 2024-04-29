@@ -1,4 +1,4 @@
-22649246260850875
+22656114486571296
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -61620,6 +61620,27 @@ solder jumper open
 0
 5
 3
+KiCadComponentLib
+GhostIcon
+
+
+0
+0
+0
+KiCadComponentLib
+GhostIcon3
+
+
+0
+0
+0
+KiCadComponentLib
+GhostIcon4
+
+
+0
+0
+0
 LED_SMD
 LED-APA102-2020
 http://www.led-color.com/upload/201604/APA102-2020%20SMD%20LED.pdf
@@ -62775,6 +62796,13 @@ Yellow 5381 Series LED
 0
 2
 2
+LEDswarm
+GhostIcon
+
+
+0
+0
+0
 MicroXNJ
 MICROXNJ
 MICROXNJ
