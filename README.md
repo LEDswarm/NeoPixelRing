@@ -1,4 +1,5 @@
-![led_board_banner](https://github.com/LEDswarm/NeoPixelRing/assets/94269527/dac14c2b-f3ed-4588-be0f-f6859be29d65)
+
+![led_board_banner3](https://github.com/LEDswarm/NeoPixelRing/assets/94269527/dc6e286c-ee68-42dc-b794-b751acc13ae5)
 
 # A custom NeoPixel ring for LEDswarm controllers
 
